@@ -15,11 +15,13 @@ Secara umum respon yang akan diberikan adalah sebagai berikut:
 }
 ```
 Dengan parameter yang harus selalu dikirimkan:
+
 | Parameter        |            | Deskripsi  |
 | ------------- |:-------------:| -----:|
 | token      | required | string unik yang didapatkan setelah login  |
 
 Penjelasan respon:
+
 | Parameter     | Deskripsi  |
 | ------------- |:-------------|
 | `success`       | Bernilai `true` jika tidak terjadi kesalahan, sebaliknya akan mengembalikan `false` |
@@ -38,13 +40,16 @@ Mendapatkan daftar berita yang sudah dipublikasikan oleh admin
     GET     /news
 ```
 | Parameters
+
 | Parameter        |            | Deskripsi  |
 | ------------- |:-------------:| :-----|
 | `count`         | required | Jumlah berita yang ingin diperoleh |
 | `page`          | optional | Posisi berita pada halaman berapa yang ingin deperoleh. Secara default akan bernilai 0 atau halaman pertama |
 
 | Respon Data
+
 Akan dikirimkan array of berita sejumlah `count` dan struktur tiap item berita adalah sebagai berikut:
+
 | Parameter     | Deskripsi  |
 | ------------- |:-------------|
 | `title`       | Judul berita |
