@@ -32,11 +32,11 @@ Pada bagian selanjutnya akan dijelaskan web service yang dapat digunakan beserta
 
 ## Autentikasi
 -------------------------
-## Login
-## Registrasi
-## Cek Email sudah Terdaftar
-## Cek sudah Terkonfirmasi
-## Perbaharui Token
+### Login
+### Registrasi
+### Cek Email sudah Terdaftar
+### Cek sudah Terverifikasi
+### Perbaharui Token
 
 ## Salman Menyapa
 -------------------------
