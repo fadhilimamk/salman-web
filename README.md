@@ -30,8 +30,16 @@ Penjelasan respon:
 
 Pada bagian selanjutnya akan dijelaskan web service yang dapat digunakan beserta `data` yang akan diperoleh.
 
+## Autentikasi
+-------------------------
+## Login
+## Registrasi
+## Cek Email sudah Terdaftar
+## Cek sudah Terkonfirmasi
+## Perbaharui Token
 
 ## Salman Menyapa
+-------------------------
 ### List Berita
 Mendapatkan daftar berita yang sudah dipublikasikan oleh admin
 
@@ -69,3 +77,27 @@ contoh:
 ]
 
 ```
+
+
+### Detail Berita
+
+to be defined
+
+
+## Cari Alumni
+-------------------------
+### Alumni di Sekitar
+### Pencarian dengan Nama
+### Detail Profil Alumni
+
+
+## Profil Pengguna
+-------------------------
+### Upload Gambar Profil
+### Ambil data Profil
+### Ubah data Profil
+
+## Kontak Admin
+-------------------------
+### Info Admin
+dapetin no telp, alamat, email, nama, dlsb (bisa diganti dari admin)
